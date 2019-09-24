@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     fontFamily: "open-sans-bold"
   },
   button: {
-    width: "100%",
+    width: Dimensions.get('window').width / 4,
     maxWidth: 80
   },
   input: {
@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     width: "80%",
     maxWidth: "95%",
-    minWidth: "300",
+    minWidth: 300,
     alignItems: "center"
   },
   buttonContainer: {
