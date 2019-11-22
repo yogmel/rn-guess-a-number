@@ -10,17 +10,23 @@
 
 Screenshot of the first screen. The two buttons, one it is used to reset and clean the input and the other to confirm your choice. It accepts only positive, not decimal numbers.
 
-![Screenshot when confirm is pressed. Another box appears underneath, showing the selected number and a button named "Start Game"](./readme-img/03.png)
+<p align="center">
+ <img src="/readme-img/03.png" alt="Screenshot when confirm is pressed. Another box appears underneath, showing the selected number and a button named 'Start Game'"width="250">
+</p>
 
 After confirming, the number of your choice will appear below. The game does not start until you press the *Start Game* button.
 
-![Screenshot of the game. There is a text "Opponent's Guess" and a number 46 underneath it. There is a box with two buttons, one with a minus and another with a plus sign. Underneath, there is a list of numbers, one column represents the number of the trial and the other, the guessed number](./readme-img/04.png)
+<p align="center">
+ <img src="/readme-img/04.png" alt="Screenshot of the game. There is a text 'Opponent's Guess' and a number 46 underneath it. There is a box with two buttons, one with a minus and another with a plus sign. Underneath, there is a list of numbers, one column represents the number of the trial and the other, the guessed number"width="250">
+</p>
 
 The screen of the game per se. The user's job now is to inform the computer if the number she chose is greater of lower then the one appearing on the screen, under the "Opponent's Guess". Yes, you are the one giving the hints, so the **computer** can get the user's guess right.
 
 A list of guessed numbers is fed underneath.
 
-![Screenshot when the game is done. A picture of a sleeping cat is shown and the text "Your phone needed 7 rounds to guess the number 25" appears. There is also a button that reads "New Game"](./readme-img/05.png)
+<p align="center">
+ <img src="/readme-img/05.png" alt="Screenshot when the game is done. A picture of a sleeping cat is shown and the text 'Your phone needed 7 rounds to guess the number 25' appears. There is also a button that reads 'New Game'"width="250">
+</p>
 
 If the computer guessed the number right, the game is over. On this screen, it is shown how many guesses the computer needed to get the number right.
 
